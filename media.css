@@ -99,6 +99,10 @@
     flex-direction: column;
   }
 
+  .about-head {
+    margin-bottom: 0rem;
+  }
+
   .about-box {
     margin-top: 3rem;
   }
